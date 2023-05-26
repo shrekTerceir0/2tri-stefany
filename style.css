@@ -1,7 +1,7 @@
 :root {
-     --cor-de-fundo: rgb(26, 29, 194);
-     --cor-cabecalho:rgb(0, 153, 255);
-     --fundo-menu:rgb(6, 215, 243);
+     --cor-de-fundo: rgb(214, 187, 33);
+     --cor-cabecalho:rgb(184, 29, 29);
+     --fundo-menu:rgb(153, 119, 26);
 
 }
   body {
@@ -9,7 +9,7 @@
   }
    
 h1 {
-    background-color: rgb(15, 171, 177);
+    background-color: rgb(206, 130, 15);
 }
  .cabecalho {
    background-color: var(--cor-cabecalho);
@@ -24,6 +24,8 @@ h1 {
   display: block;
   padding: 10px;
   font-size: 24px;
+  text-decoration: none;
   text-align: center;
   border-top: 1px solid;
  }
+ 
